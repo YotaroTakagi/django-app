@@ -1,7 +1,11 @@
 h1 {
-    color: red;
+    color: green;
 }
 
 p {
     color: red;
+}
+
+body {
+    padding-left: 105px;
 }
